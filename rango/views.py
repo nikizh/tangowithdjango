@@ -79,7 +79,6 @@ def add_category(request):
 
 
 def register(request):
-
     # A boolean value for telling the template whether the registration was successful.
     # Set to False initially. Code changes value to True when registration succeeds.
     registered = False
